@@ -9,7 +9,7 @@ Remove the comment keys from lines 8-10 before running it then continue adding c
 Watch this youtube video for a step by step tutorial: 
 [Video](https://www.youtube.com/@cloudingwithBarden)
 
-## Authors
+## Author
 
 - [@Samuel Barden](https://www.samuelbarden.com)
 
