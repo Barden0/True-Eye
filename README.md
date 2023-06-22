@@ -1,2 +1,2 @@
 # TrueEye
-A real-time object detection, classification, and segmentation with python using OpenCV and YOLOv8 by Ultralytics
+A real-time object detection, classification, and segmentation AI model built with python, OpenCV and YOLOv8 by Ultralytics.
