@@ -48,7 +48,6 @@ while 1:
 
 
 # Show frame around selected object being identified
-# Allows camera frame to stay on screen
    cv2.imshow('frame',frame)
    cv2.waitKey(1)
 
